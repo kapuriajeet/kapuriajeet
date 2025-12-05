@@ -23,7 +23,6 @@ I work with **Node.js, Express, MongoDB, MySQL, PostgreSQL, React.js, and Python
 ### **Programming Languages**
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### **Tools & Services**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -57,8 +56,6 @@ A production-grade backend built with Node.js, Express, MongoDB, and Socket.io.
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=kapuriajeet&show_icons=true&theme=radical" height="160" /> 
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kapuriajeet&theme=radical" height="160" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapuriajeet&layout=compact&theme=radical" height="160" />
 
