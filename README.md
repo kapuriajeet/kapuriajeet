@@ -1,7 +1,7 @@
 # ⭐ Jeet Kapuria – Backend Engineer
 
 Hi, I’m **Jeet Kapuria**, a **Backend Engineer** passionate about building scalable systems, clean architectures, and production-ready backend services.  
-I work with **Node.js, Express, MongoDB, MySQL, PostgreSQL, React.js, and Python (DSA)**, and I’m actively building real-world projects like **DevCollab** to sharpen my engineering expertise.
+I work with **Node.js, Express, MongoDB, MySQL, PostgreSQL, React.js**, and I’m actively building real-world projects like **DevCollab** to sharpen my engineering expertise.
 
 ---
 
@@ -76,5 +76,3 @@ A production-grade backend built with Node.js, Express, MongoDB, and Socket.io.
 - Backend engineering  
 - System design  
 - Advanced Node.js & TypeScript  
-- DSA in Python  
-- Building real-world backend systems like DevCollab
