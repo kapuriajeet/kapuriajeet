@@ -51,18 +51,6 @@ A production-grade backend built with Node.js, Express, MongoDB, and Socket.io.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=kapuriajeet&show_icons=true&theme=radical" height="160" /> 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapuriajeet&layout=compact&theme=radical" height="160" />
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/jeet-kapuria-3912b4214/](#)  
